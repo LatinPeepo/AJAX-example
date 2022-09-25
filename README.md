@@ -31,3 +31,8 @@ see the following
 
 
 ![image](https://user-images.githubusercontent.com/48489611/192136122-233f6d06-6368-4b2d-bf31-dccbc7859724.png)
+
+The order in here is completely reversed, and the reason being that the order in which the response came back has 
+varied.
+Hopefully this was a concise and informative description of how Asynchronous Javascript works.
+Feel free to clone the code and run it for yourself.
